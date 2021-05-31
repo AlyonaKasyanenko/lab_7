@@ -1,0 +1,462 @@
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.623);
+    
+}
+
+#container {
+    width: 1370px;
+    float: center;
+    margin: auto;
+}
+
+
+
+#header {
+  float: inline-start;
+}
+
+ul.nav {
+    padding-top: 45px;
+    padding-right: 98px;
+    list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+    font-family: 'Montserrat', AdobeInvisFont, Tahoma, MyriadPro-Regular;
+    font-weight: bold;
+    
+    font-size: 12px;
+    text-align: right;
+}
+li.nav {
+    display: inline-block;
+    position: relative;
+    
+    margin-right: 30px;
+    
+}
+
+a {
+    text-decoration: none;
+    color:black
+}
+
+a:hover {
+    color: #10C9C3;
+}
+
+
+
+#banner {
+    height: 668px;
+    background-color: #e9e9e9;
+    width: auto;
+}
+
+img.logo {
+    height: 25px;
+    padding-top: 38px;
+    padding-left: 98px;
+    margin: 0px;
+    float: left;
+
+}
+
+#text {
+    float: right;
+    padding-right: 149px;
+    padding-top: 180px;
+}
+
+#text h3{
+    color:black;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 32px;
+}
+
+section {
+    
+    padding-top: 38px;
+    
+}
+.button-1 {
+    display: inline-block;
+    font-size: 12px;
+    font-family: 'Montserrat', AdobeInvisFont, Tahoma, MyriadPro-Regular;
+    width: 181px;
+    height: 40px; 
+    background-color: #10C9C3;
+    color: #ffffff;
+    border: none;
+    padding-top: 24px;
+    text-align: center;
+    
+}
+
+a.button-1:hover {
+    color: #ffffff;
+    pointer-events: none;
+}
+
+#about {
+    text-align: center;
+    padding-top:98px;
+    height: 416px;
+}
+
+#about h4 {
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    padding-bottom: 42px;
+}
+
+.signature {
+    padding-top: 37px;
+}
+
+#skills {
+    height: 571px;
+    background: #F8F9F9;
+    text-align: left;
+    padding-left: 100px;
+}
+
+#skills h4 {
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 165px;
+    padding-bottom: 39px;
+}
+
+#list img {
+
+    padding-top: 19px;
+    padding-bottom: 41px;
+}
+
+img.bg {
+    float: right;
+    padding: none;
+}
+
+#services {
+    height: 536px;
+    background: #F5F5F5;
+    padding-top: 101px;
+    text-align: center;
+    padding-left: 102px;
+    font-size: 16px;
+    color: #787878;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: normal;
+    
+}
+
+#services h5 {
+    font-size: 12px;
+    font-family:'Montserrat', AdobeInvisFont, Tahoma, MyriadPro-Regular;
+    font-weight: bold;
+    color: #191919;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin:0px;
+}
+
+#step_1, #step_2 {
+    display: flex;
+    margin: 0px;
+}
+
+#step_1 {
+    padding-bottom: 62px;
+}
+
+.space_2 {
+    padding-left: 70px;
+    
+}
+
+#numbers {
+    background: #10C9C3;
+    color: white;
+    font-size: 12px;
+    font-family: 'Montserrat', AdobeInvisFont, Tahoma, MyriadPro-Regular;
+    height: 241px;
+    width: 1370px;
+    display: inline-block;
+    
+}
+
+.section_1, .section_2, .section_3, .section_4 {
+    display: inline-table;
+    padding-top: 102px;
+}
+
+#numbers h5 {
+    font-size: 18px;
+    margin: 0px;
+    padding:0px;
+    
+}
+
+.section_1 {
+    padding-left: 101px;
+}
+
+.section_2 {
+    padding-left: 69px;
+    
+}
+
+.section_3 {
+    padding-left: 69px;
+    
+}
+
+.section_4 {
+    padding-left: 69px;
+   
+}
+
+#numbers img {
+    float:left; 
+    padding-right: 27px; 
+    padding-bottom: 0px;
+}
+
+#work {
+    height: 700px;
+    background: #F5F5F5;
+}
+
+#work-process {
+    
+    height: 930px;
+    text-align: center;
+    font-size: 16px;
+}
+
+#work-process h3{
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 41px;
+    text-align: center;
+    
+}
+
+img.video {
+    padding-top: 56px;
+    margin: 0px;
+    
+}
+
+
+#testimonials {
+    height: 501px;
+    background-color: #10C9C3;
+    padding-top: 179px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Montserrat', AdobeInvisFont, Tahoma, MyriadPro-Regular;
+    font-weight: bold;
+    line-height: 45px;
+}
+
+.name_autor {
+    padding-top: 30px;
+    color: white;
+    font-size: 12px;
+    font-family: 'Montserrat', AdobeInvisFont, Tahoma, MyriadPro-Regular;
+    font-weight: bold;
+}
+
+.scroll {
+    padding-top: 108px;
+}
+
+#clients {
+    display: block;
+    height: 201px;
+    padding-left: 134px;
+}
+
+#clients ul {
+    
+    padding-top: 68px;
+    list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+}
+
+#clients li {
+    list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+    display: inline-block;
+    position: relative;
+    margin-right: 143px;
+}
+
+#project {
+    height: 752px;
+    background: #F5F5F5;
+    font-size: 16px;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+}
+#project h3{
+
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 102px;
+    padding-bottom: 35px;
+    text-align: center;
+}
+
+#project input {
+    margin-top: 37px;
+    border: none;
+}
+
+.name-project, .email-project {
+    width: 312px;
+    height: 49px;
+    text-align: left center;
+    padding-left: 21px;       
+}
+.email-project {
+    margin-left: 24px; 
+    
+}
+
+.title-project {
+    width: 671px;
+    height: 49px;
+    text-align: left center;
+    padding-left: 21px;
+    
+    
+}
+
+.comment-project {
+    width: 671px;
+    height: 171px;
+    padding-top: 0px;
+    padding-left: 21px;
+}
+
+
+#footer {
+    background: #141414;
+    color: #BCBCBC;
+    height: 285px !important;
+    font-size: 15px;
+    font-family: 'Nunito Sans', sans-serif;
+    padding-left: 99px;
+    
+
+}
+
+.sect_1, .sect_2, .sect_3, .sect_4, .sect_5 {
+    display: inline-block;
+}
+
+.sect_1 {
+    margin:0px;
+}
+
+.sect_2 {
+    padding-left: 246px;
+}
+
+#footer h2 {
+    color: white;
+    padding-bottom: 27px;
+    margin: 0px;
+    padding-top: 100px;
+}
+
+#footer ul {
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+    display: inline-block;
+}
+
+.sect_3 {
+    padding-left: 145px;
+}
+
+.sect_4 {
+    padding-left: 55px;
+}
+
+.sect_5 {
+    padding-left: 135px;
+}
+
+#footer a {
+    color:  #BCBCBC;;
+}
+
+
+
+
+
+ul.skills {
+    display: block;
+    list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+    font-family: 'Montserrat', AdobeInvisFont, Tahoma, MyriadPro-Regular;
+    font-weight: bold;
+    color: black;
+    font-size: 12px;
+
+}
+
+img.skills {
+    padding-bottom: 41px;
+    padding-top: 28px;
+}
+
+img.work_c {
+    margin: 0px;
+    padding-right: 0px;
+    list-style: none;
+    display: inline;
+    float: left;
+}
+
+a.work_c {
+    margin: 0px;
+    padding: 0px;
+}
+
+#part_1, #part_2 {
+    display: inline-block;
+}
+
+#loading a{
+    color: #8E8E8E;
+    font-family: 'Montserrat', AdobeInvisFont,Tahoma;
+    font-weight: bold;
+    font-size: 12px;
+    padding-top: 47px;
+    padding-bottom: 45px;
+    display: block;  
+    text-align:center;
+}
